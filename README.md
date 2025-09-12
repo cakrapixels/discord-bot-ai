@@ -37,9 +37,6 @@
 ```text
 Halo! Ini adalah contoh balasan AI dari N Chat Bot. 😊
 
-
----
-
 ## 🛠️ Persyaratan
 
 * Node.js **versi terbaru**
