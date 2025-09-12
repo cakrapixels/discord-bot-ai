@@ -125,9 +125,11 @@ Distribusi atau penggunaan tanpa izin dilarang.
 
 | Fitur           | Contoh                                         |
 | --------------- | ---------------------------------------------- |
-| AI Chat         | ![AI Reply}([https://imgur.com/a/GVMqtuR](https://imgur.com/YjGfQ5K)](https://imgur.com/a/GVMqtuR)|
+| AI Chat         | ![AI Reply]([Imgur](https://imgur.com/YjGfQ5K))               |
 | Command `/meme` | ![Meme Command](assets/meme-command.png)       |
 | Weather         | ![Weather Command](assets/weather-command.png) |
+
+> Ganti placeholder screenshot dengan hasil bot sebenarnya agar README lebih interaktif.
 
 ```
 ```
