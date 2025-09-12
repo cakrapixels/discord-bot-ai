@@ -129,7 +129,5 @@ Distribusi atau penggunaan tanpa izin dilarang.
 | Command `/meme` | ![Meme Command](https://i.imgur.com/w3xaJ3r.png) |
 | Weather         | ![Weather Command](https://i.imgur.com/Msy0bUi.png) |
 
-> Ganti placeholder screenshot dengan hasil bot sebenarnya agar README lebih interaktif.
-
 ```
 ```
