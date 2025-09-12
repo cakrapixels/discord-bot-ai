@@ -125,7 +125,7 @@ Distribusi atau penggunaan tanpa izin dilarang.
 
 | Fitur           | Contoh                                         |
 | --------------- | ---------------------------------------------- |
-| AI Chat         | ![AI Reply](https://imgur.com/a/GVMqtuR](https://imgur.com/YjGfQ5K)|
+| AI Chat         | ![AI Reply}([https://imgur.com/a/GVMqtuR](https://imgur.com/YjGfQ5K)](https://imgur.com/a/GVMqtuR)|
 | Command `/meme` | ![Meme Command](assets/meme-command.png)       |
 | Weather         | ![Weather Command](assets/weather-command.png) |
 
