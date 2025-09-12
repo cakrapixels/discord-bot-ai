@@ -68,9 +68,26 @@ npm install
 Buat file `.env` di root folder:
 
 ```env
-DISCORD_TOKEN=your_discord_bot_token
-GEMINI_API_KEY=your_gemini_api_key
-WEATHER_API_KEY=your_weather_api_key
+# Token Discord
+DISCORD_TOKEN=YOUR_BOT_TOKEN
+
+# API Key Gemini
+GEMINI_API_KEY=YOUR_GEMINI_API
+
+# Channel tempat bot merespon
+DISCORD_CHANNEL_ID=YOUR_DISCORD_CHANEL_ID
+
+# Model Gemini
+GEMINI_MODEL=gemini-2.5-flash
+
+# Identitas AI
+GEMINI_IDENTITY=YOUR_BOT_IDENTITY.
+
+# Status bot default (online / idle / dnd / invisible)
+BOT_STATUS=idle
+
+# API Key OpenWeatherMap (untuk command /weather)
+OPENWEATHER_API_KEY=YOUR_WEATHER_API
 ```
 
 ### 4️⃣ Jalankan Bot
