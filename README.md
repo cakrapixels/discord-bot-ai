@@ -128,6 +128,3 @@ Distribusi atau penggunaan tanpa izin dilarang.
 | AI Chat         | ![AI Reply](https://i.imgur.com/YjGfQ5K.png)  |
 | Command `/meme` | ![Meme Command](https://i.imgur.com/w3xaJ3r.png) |
 | Weather         | ![Weather Command](https://i.imgur.com/Msy0bUi.png) |
-
-```
-```
