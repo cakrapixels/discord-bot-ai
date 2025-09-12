@@ -1,4 +1,4 @@
-````
+````markdown
 # N Chat Bot 🤖
 
 [![Node.js](https://img.shields.io/badge/Node.js-latest-green.svg)](https://nodejs.org/) 
@@ -117,13 +117,4 @@ Distribusi atau penggunaan tanpa izin dilarang.
 > Ganti placeholder screenshot dengan hasil bot sebenarnya agar README lebih interaktif.
 
 ```
-
-✅ Perbaikan utama:  
-1. Semua code block menggunakan **tiga backticks**.  
-2. Heading dan section sudah rapi, tidak ada nested backticks yang salah.  
-3. Siap copy-paste ke GitHub.  
-
-Kalau mau, saya bisa buat **versi final lengkap dengan badge tambahan, GIF, dan link Discord aktif**, sehingga README terlihat profesional dan interaktif.  
-
-Apakah mau saya buatkan versi itu juga?
 ```
