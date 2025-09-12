@@ -3,7 +3,7 @@
 [![Node.js](https://img.shields.io/badge/Node.js-latest-green.svg)](https://nodejs.org/) 
 [![License](https://img.shields.io/badge/License-Reserved-red.svg)](#) 
 [![Version](https://img.shields.io/badge/Version-1.0.0-blue.svg)](#)
-[![Discord](https://img.shields.io/badge/Join-Discord-7289DA?logo=discord&logoColor=white)](https://discord.gg/your-server-invite)
+[![Discord](https://img.shields.io/badge/Join-Discord-7289DA?logo=discord&logoColor=white)](https://discord.nexanetwork.fun/*)
 [![Last Commit](https://img.shields.io/github/last-commit/username/n-chat-bot)](https://github.com/username/n-chat-bot)
 
 **N Chat Bot** adalah chatbot AI berbasis Discord yang menggunakan **Gemini 2.5 Flash** untuk percakapan cerdas. Bot ini dilengkapi berbagai command interaktif dan AI chat rapi.
