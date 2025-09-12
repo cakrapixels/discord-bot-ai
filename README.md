@@ -53,7 +53,7 @@ Halo! Ini adalah contoh balasan AI dari N Chat Bot. 😊
 ### 1️⃣ Clone Repository
 
 ```bash
-git clone <repo-url>
+git clone https://github.com/cakrapixels/discord-bot-ai.git
 cd n-chat-bot
 ```
 
