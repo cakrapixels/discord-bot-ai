@@ -36,3 +36,5 @@
 
 ```text
 Halo! Ini adalah contoh balasan AI dari N Chat Bot. 😊
+
+<img width="854" height="776" alt="{49093149-DE07-40AF-ADB8-2D7A8A357D07}" src="https://github.com/user-attachments/assets/9be6d71a-85f3-4722-a40d-95ca792fc058" />
