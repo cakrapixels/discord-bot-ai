@@ -1,4 +1,4 @@
-````markdown
+````
 # N Chat Bot 🤖
 
 [![Node.js](https://img.shields.io/badge/Node.js-latest-green.svg)](https://nodejs.org/) 
