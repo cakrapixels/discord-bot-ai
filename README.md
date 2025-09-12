@@ -36,3 +36,83 @@
 
 ```text
 Halo! Ini adalah contoh balasan AI dari N Chat Bot. 😊
+
+```
+
+## 🛠️ Persyaratan
+
+* Node.js **versi terbaru**
+* Discord.js **v14+**
+* API Key Gemini 2.5 Flash
+* API Weather Key
+
+---
+
+## ⚡ Instalasi
+
+### 1️⃣ Clone Repository
+
+```bash
+git clone <repo-url>
+cd n-chat-bot
+```
+
+### 2️⃣ Install Dependencies
+
+```bash
+npm install
+```
+
+### 3️⃣ Konfigurasi Environment
+
+Buat file `.env` di root folder:
+
+```env
+DISCORD_TOKEN=your_discord_bot_token
+GEMINI_API_KEY=your_gemini_api_key
+WEATHER_API_KEY=your_weather_api_key
+```
+
+### 4️⃣ Jalankan Bot
+
+```bash
+node index.js
+```
+
+---
+
+## 🎨 Konfigurasi Opsional
+
+* **Warna Embed**: Biru Neon (`0x1abcff`)
+* **Footer**: `NexaNation AI ✨`
+* **Text Box**: Default aktif untuk semua AI response
+
+---
+
+## 📄 Lisensi
+
+Hak cipta © 2025 **CakraDev & Lab Nexa Nation**. Semua hak dilindungi.
+Distribusi atau penggunaan tanpa izin dilarang.
+
+---
+
+## 💡 Catatan
+
+* Bot menggunakan **queue per channel** agar AI response tidak tumpuk.
+* Pastikan API Key Gemini dan Weather valid agar bot berjalan lancar.
+* Text panjang otomatis dibagi menjadi beberapa embed atau file jika melebihi batas Discord.
+
+---
+
+## 📸 Screenshot (Placeholder)
+
+| Fitur           | Contoh                                         |
+| --------------- | ---------------------------------------------- |
+| AI Chat         | ![AI Reply](assets/ai-reply.png)               |
+| Command `/meme` | ![Meme Command](assets/meme-command.png)       |
+| Weather         | ![Weather Command](assets/weather-command.png) |
+
+> Ganti placeholder screenshot dengan hasil bot sebenarnya agar README lebih interaktif.
+
+```
+```
