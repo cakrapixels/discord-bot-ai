@@ -42,7 +42,7 @@ Halo! Ini adalah contoh balasan AI dari N Chat Bot. 😊
 ## 🛠️ Persyaratan
 
 * Node.js **versi terbaru**
-* Discord.js **v14+**
+* Discord.js **v15+**
 * API Key Gemini 2.5 Flash
 * API Weather Key
 
