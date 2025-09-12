@@ -125,9 +125,9 @@ Distribusi atau penggunaan tanpa izin dilarang.
 
 | Fitur           | Contoh                                         |
 | --------------- | ---------------------------------------------- |
-| AI Chat         | ![AI Reply]([Imgur](https://imgur.com/YjGfQ5K))               |
-| Command `/meme` | ![Meme Command](assets/meme-command.png)       |
-| Weather         | ![Weather Command](assets/weather-command.png) |
+| AI Chat         | ![AI Reply](https://i.imgur.com/YjGfQ5K.png)  |
+| Command `/meme` | ![Meme Command](https://i.imgur.com/w3xaJ3r.png) |
+| Weather         | ![Weather Command](https://i.imgur.com/Msy0bUi.png) |
 
 > Ganti placeholder screenshot dengan hasil bot sebenarnya agar README lebih interaktif.
 
