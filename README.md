@@ -1,5 +1,3 @@
-Siap! Berikut **versi lengkap README.md** untuk **N Chat Bot**, sudah saya susun agar tinggal copy-paste ke proyek kamu. Saya masukkan placeholder screenshot yang bisa langsung diganti dengan gambar asli kamu.
-
 ````markdown
 # N Chat Bot 🤖
 
