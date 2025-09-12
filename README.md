@@ -45,6 +45,7 @@ Halo! Ini adalah contoh balasan AI dari N Chat Bot. 😊
 * Discord.js **v15+**
 * API Key Gemini 2.5 Flash
 * API Weather Key
+* Hosting Required 1GB 2Vcpu
 
 ---
 
